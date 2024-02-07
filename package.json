@@ -1,0 +1,19 @@
+{
+  "name": "@ice/lite-scaffold",
+  "version": "0.0.1",
+  "description": "ice.js 3 lite 模板",
+  "scripts": {
+    "start": "ice start"
+  },
+  "dependencies": {
+    "@ice/runtime": "^1.4.1",
+    "antd": "^5.14.0",
+    "hox": "^2.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@ice/app": "^3.3.9",
+    "typescript": "^5.3.3"
+  }
+}
